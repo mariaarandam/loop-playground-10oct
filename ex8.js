@@ -7,7 +7,7 @@
  * Reestricción: NO puedes cambiar el valor de las variables 'veces' ni 'i' !!
  */
 
-let veces = 5
+let veces = 4
 let i = 0
 
 while (i<=veces) {
