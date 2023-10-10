@@ -15,7 +15,8 @@ for (var i = -5; i < numeroFinal; i++) {
   console.log("Voy a ejecutar el condicional para el número: " + i);
   // Modificar a partir de aquí
 
-  if (i < 0) {
+  if (i <= -1) {
+// o també podria ser if (i < 0) {//
     console.log("Soy un núemro negativo!");
   } else if (i == 0) {
     console.log("Soy el 0");
